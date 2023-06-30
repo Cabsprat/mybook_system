@@ -2,6 +2,7 @@ import { ReactNode } from "react";
 import NavBar from "./header";
 
 
+
 interface LayoutProps {
     children?: ReactNode
 }
